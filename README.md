@@ -1,9 +1,25 @@
-Introducing KNews – A Jetpack Compose News App!
-XML was not too bad btw 😆, but I tried to use this chance to learn about some new topics like:
-Compose: for better UI with a declarative approach,
-paging: to ensure efficient and smooth data loading, 
-dependency injection(Hilt): to make the code more modular and testable,
-MVVM architecture: to improve maintainability with better separation of concerns, 
-also I used retrofit for API integration and RoomDB to save the Bookmarked articles locally.
+# 📱 KNews – A Jetpack Compose News App
 
-Unlike my last project (which was pure spaghetti code), I focused on writing cleaner and more maintainable code this time. UI design wasn't my top priority, but I aimed for a structured and scalable approach.
+KNews is a modern news application built using **Jetpack Compose** in Kotlin. This project was an opportunity to explore new technologies and improve my code quality while focusing on clean architecture.
+
+## 🚀 Features & Tech Stack
+
+- **Jetpack Compose** – Provides a modern, declarative UI approach.
+- **Paging 3** – Ensures efficient and smooth data loading with pagination support.
+- **Hilt (Dependency Injection)** – Makes the code more modular and testable.
+- **MVVM Clean Architecture** – Improves maintainability with better separation of concerns.
+- **Retrofit** – Handles API integration seamlessly.
+- **RoomDB** – Saves bookmarked articles locally for offline access.
+- **Coroutines & Flow** – Handles background tasks efficiently.
+- **Navigation Component** – Manages in-app navigation smoothly.
+- **ViewModel** – Stores UI-related data lifecycle-aware.
+
+## 🎯 Project Goals
+
+Unlike my last project (which was pure spaghetti code 🍝), my focus this time was:
+✅ Writing **cleaner and more maintainable code**.
+✅ Ensuring **scalability** and **structured architecture**.
+✅ Learning and implementing **best practices** in Android development.
+
+I’d love to hear your feedback! If you have suggestions, feel free to open an **issue** or **pull request**.
+
