@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.KNews" parent="android:Theme.Black.NoTitleBar" />
+
+    <style name="Theme.MyApp.Splash" parent="Theme.SplashScreen">
+        <item name="splashScreenIconSize"> 200.dp </item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/icon_app_small</item>
+        <item name="windowSplashScreenBackground">@color/black</item>
+    </style>
+
+</resources>
+
